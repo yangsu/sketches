@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"build-tmp",
+				"dist"
+			],
+            "file_exclude_patterns":
+            [
+                "*.sublime-workspace"
+            ],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}

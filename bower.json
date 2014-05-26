@@ -1,0 +1,9 @@
+{
+  "name": "sketches",
+	"version": "",
+	"main": "dist/sketches.min.js",
+  "dependencies": {
+		"processingjs": "*"
+	}
+}
+
